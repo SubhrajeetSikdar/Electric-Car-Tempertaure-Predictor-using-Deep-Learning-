@@ -4,6 +4,7 @@ This repository contains code for predicting the temperature of an electric moto
 
 ## Dataset
 
+
 The dataset used for training the model is the "Electric Motor Temperature Data" available on Kaggle. The dataset contains various features related to the temperature of an electric motor, such as ambient temperature, coolant temperature, motor speed, torque, etc.
 
 ## Model Architecture
